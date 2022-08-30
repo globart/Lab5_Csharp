@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TicTacToeConsoleApp/1.0.0": {
+        "dependencies": {
+          "TicTacToeLib": "1.0.0"
+        },
+        "runtime": {
+          "TicTacToeConsoleApp.dll": {}
+        }
+      },
+      "TicTacToeLib/1.0.0": {
+        "runtime": {
+          "TicTacToeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
